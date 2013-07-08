@@ -61,7 +61,7 @@
 
         <div class="container">
             
-            <legend>Bienvenido al Sistema</legend>
+            <legend>Bienvenido</legend>
             <br />
             
             <div id="menu_usuario">
